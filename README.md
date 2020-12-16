@@ -4,7 +4,7 @@ Daykon is implementation in-memory Redis cache app
 
 TCP client and server 
 
-Operators: GET, SET, DEL, KEYS
+Operators: GET, SET, DEL, KEYS, SAVE, BACKUP
 
 __GET "keyName"__
 ```
