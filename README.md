@@ -33,7 +33,7 @@ daykon> GET mykey
 daykon> SET mykey2 "Hi" 100s
 OK
 daykon> GET mykey2
-"Hi" 1m35.771775231s
+"Hi" 1m39.771775231s
 ```
 ___
 
