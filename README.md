@@ -6,6 +6,10 @@ TCP client and server
 
 Operators: GET, SET, DEL, KEYS, SAVE, BACKUP
 
+## Getting started
+Open server.exe and client.exe and go on with operators
+___
+
 __GET "keyName"__
 ```
 daykon> SET mykey "Hello, World"
