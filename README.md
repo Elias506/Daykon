@@ -84,8 +84,6 @@ daykon> KEYS ag\d
 ```
 |Symbol|Point|
 |:----:|:---|
-|`^`|Begining string|
-|`$`|End string
 |h`.`llo|Matches hllo and heeeello|
 |h`[ab]`llo|Matches hello and hallo, but not hillo|
 |h`[^e]`llo|Matches hallo, hbllo, ... but not hello|
