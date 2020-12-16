@@ -7,7 +7,7 @@ TCP client and server
 Operators: GET, SET, DEL, KEYS, SAVE, BACKUP
 
 ## Getting started
-Open server.exe and client.exe and go on with operators
+### Open server.exe and client.exe and go on with operators
 
 Or use terminal with
 ```
