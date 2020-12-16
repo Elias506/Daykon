@@ -8,7 +8,21 @@ Operators: GET, SET, DEL, KEYS, SAVE, BACKUP
 
 ## Getting started
 Open server.exe and client.exe and go on with operators
+
+Or use terminal with
+```
+src/server> go run server.go
+```
+and
+```
+src/client> go run client.go
+```
+Also you can run server_test.go:
+```
+src/server> go test
+```
 ___
+
 
 __GET "keyName"__
 ```
