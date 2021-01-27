@@ -51,7 +51,6 @@ OK
 daykon> SET anotherkey2 {key1:"1",key2:"2"}
 
 ```
-You can save lists also, because Daykon keep your data in bytes
 ___
 __DEL "keyName1" "keyName2" ...__
 
